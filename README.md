@@ -4,7 +4,7 @@ Selfmade Gangwar Script for your Roleplay Server
 i release this script because someone want to leak my script, so i do it myself! :D
 acually i am to lazy to translate it just use as you want its working fine!
 
-its features:
+features:
 
 - spawn for attacker
 - spawn for defense
